@@ -35,8 +35,7 @@ Global Styles
   box-sizing: border-box;
 }
 
-/*
-*/
+
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
@@ -135,7 +134,7 @@ Navbar
 ======
 */
 .navbar {
-  background: var(--mainWhite);
+  background: red;
   height: 5rem;
   display: flex;
   align-items: center;
